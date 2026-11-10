@@ -71,7 +71,7 @@ python main.py
 - Add more advanced statistical analysis.
 
 ## Author
-**Vansh Kohli**
+**Vansh**
 
 ---
 
